@@ -1,0 +1,10 @@
+button {
+  display: block;
+  margin-left: 250px;
+  margin-right: auto;
+  margin-top: 300px;
+  padding: 10px;
+  border-radius: 20%;
+  font-size: larger;
+  font-family: fantasy;
+}
